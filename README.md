@@ -12,5 +12,5 @@
 7) To access these entities, use GET request http://localhost:3000/<entity_name> or http://localhost:3000/<entity_name>/id.
 8) For example http://localhost:3000/books, http://localhost:3000/members, http://localhost:3000/books/1.
 9) To delete a data by id, send DELETE request to http://localhost:3000/<entity_name>/id. For example DELETE http://localhost:3000/books/1
-10) To send a POST request, refer the DDL SQL file ashfaq.sql to note the fields and use the url as follows http://localhost:3000/<tbname>?<key:value> pairs.
+10) To send a POST request, refer the DDL SQL file ashfaq.sql to note the fields and use the url as follows http://localhost:3000/<tbname>?<key=value> pairs.
 11) For example http://localhost:3000/members?memberId=12&name=popey&contactNumber=978978.
