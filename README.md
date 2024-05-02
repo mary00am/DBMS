@@ -7,7 +7,7 @@
    3) DB_NAME=<database_name>
    4) DB_USER=<database_user>
    5) DB_PASSWORD=<database_password>
-5) There are 2 methods GET, POST and DELETE. I used a software called postman to test my API endpoints. 
+5) There are 3 methods GET, POST and DELETE. I used a software called postman to test my API endpoints. 
 6) There are 5 endpoints for each of the 5 entities namely BOOKS, MEMBERS, PUBLISHERS,BORROWINGS, GENRES.
 7) To access these entities, use GET request http://localhost:3000/<entity_name> or http://localhost:3000/<entity_name>/id.
 8) For example http://localhost:3000/books, http://localhost:3000/members, http://localhost:3000/books/1.
